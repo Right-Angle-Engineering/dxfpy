@@ -83,6 +83,6 @@ dev5 = [
 dxfpy = "dxfpy.__main__:main"
 
 [project.urls]
-Repository = "https://github.com/PKwhiting/ezdxf"
-Issues = "https://github.com/PKwhiting/ezdxf/issues"
+Repository = "https://github.com/Right-Angle-Engineering/dxfpy"
+Issues = "https://github.com/Right-Angle-Engineering/dxfpy/issues"
 Download = "https://pypi.org/project/dxfpy"
